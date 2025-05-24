@@ -1,0 +1,5 @@
+- Chia mảng thành 2 nửa -> sắp xếp từng nửa -> trộn lại
+- Dùng đệ quy
+- Độ phức tạp O(n log n)
+- Ổn định có thể dùng trong mảng lớn
+- Tốn thêm độ phức tạp về bộ nhớ O(n)
