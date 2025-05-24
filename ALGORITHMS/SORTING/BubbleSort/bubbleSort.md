@@ -1,0 +1,2 @@
+- Là thuật toán sắp xếp so sánh 2 phần tử liền kề nhau, hoán đổi nếu sai thứ tự, lặp lại cho đến khi hoàn thành thì thôi
+- Độ phức tạp : O(n^2)
