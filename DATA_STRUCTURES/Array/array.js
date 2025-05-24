@@ -10,7 +10,7 @@ function reverse(str) {
 }
 
 
-// Bubble sort
+// Bubble sort -> sử lý được mảng đơn giản, mảng ngắn, mảng dài phức tạp thì rất chậm
 const handleArrange = (arr) => {
     for (let i = 0; i < arr.length - 1; i++) {
         for (let j = 0; j < arr.length - 1; j++) {
